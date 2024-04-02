@@ -2,7 +2,7 @@ import type { Schedule } from '../index';
 
 export const allData: Schedule = [
   {
-    daynum: '1',
+    daynum: '',
     title: '',
     activities: [
       {
@@ -107,7 +107,7 @@ export const allData: Schedule = [
     ],
   },
   {
-    daynum: '2',
+    daynum: '',
     title: '',
     activities: [
       {
@@ -118,7 +118,7 @@ export const allData: Schedule = [
         links: [],
       },
       {
-        name: 'Train Your Own AI ',
+        name: 'AI Classifiers',
         time: '10:30AM - 10:45AM',
         duration: '15',
         actType: 'lecture',
@@ -149,21 +149,27 @@ export const allData: Schedule = [
         time: '12:00PM - 12:30PM',
         duration: '30',
         actType: 'codealong',
-        links: [],
+        links: [
+          {
+            displayText: 'Activity',
+            linkURL:
+              'https://docs.google.com/presentation/d/1z4XBV1jQq00XLkhOmWMPLPr_7OcqdnsZalfWMeypLto/edit?usp=sharing',
+          },
+        ],
       },
       {
         name: 'Responsible Use of AI',
         time: '12:30PM - 12:45PM',
         duration: '15',
         actType: 'lecture',
-        links: [],
+        links: [{ displayText: 'Presentation', linkURL: '' }],
       },
       {
         name: 'Wrap Up',
         time: '12:45PM - 01:00PM',
         duration: '15',
         actType: 'coreskill',
-        links: [],
+        links: [{ displayText: 'Survey', linkURL: 'https://form.typeform.com/to/RvZGbmKw' }],
       },
     ],
   },
