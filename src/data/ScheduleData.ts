@@ -155,6 +155,11 @@ export const allData: Schedule = [
             linkURL:
               'https://docs.google.com/presentation/d/1z4XBV1jQq00XLkhOmWMPLPr_7OcqdnsZalfWMeypLto/edit?usp=sharing',
           },
+          {
+            displayText: 'Padlet',
+            linkURL:
+              'https://padlet.com/alexandersmith49/ai-independent-research-padlet-board-cwgo9nb8fyltt42x',
+          },
         ],
       },
       {
@@ -162,7 +167,14 @@ export const allData: Schedule = [
         time: '12:30PM - 12:45PM',
         duration: '15',
         actType: 'lecture',
-        links: [{ displayText: 'Presentation', linkURL: '' }],
+        links: [
+          { displayText: 'Presentation', linkURL: '' },
+          {
+            displayText: 'Handout',
+            linkURL:
+              'https://drive.google.com/file/d/1q9Yx6U4HZlON9yz7JcBaYn02L_5kQvko/view?usp=sharing',
+          },
+        ],
       },
       {
         name: 'Wrap Up',
