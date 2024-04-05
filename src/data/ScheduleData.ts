@@ -156,7 +156,7 @@ export const allData: Schedule = [
               'https://docs.google.com/presentation/d/1z4XBV1jQq00XLkhOmWMPLPr_7OcqdnsZalfWMeypLto/edit?usp=sharing',
           },
           {
-            displayText: 'Padlet',
+            displayText: 'Padlet Board',
             linkURL:
               'https://padlet.com/alexandersmith49/ai-independent-research-padlet-board-cwgo9nb8fyltt42x',
           },
