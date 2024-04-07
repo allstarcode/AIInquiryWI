@@ -172,7 +172,7 @@ export const allData: Schedule = [
           {
             displayText: 'Handout',
             linkURL:
-              'https://drive.google.com/file/d/1q9Yx6U4HZlON9yz7JcBaYn02L_5kQvko/view?usp=sharing',
+              'https://docs.google.com/presentation/d/1GRict0qcuUj5hfXS1AYmwPgLHIZNr2t29GJOC6CmJqQ/',
           },
         ],
       },
