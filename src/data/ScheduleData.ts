@@ -168,11 +168,11 @@ export const allData: Schedule = [
         duration: '15',
         actType: 'lecture',
         links: [
-          { displayText: 'Presentation', linkURL: '' },
+          { displayText: 'Presentation', linkURL: 'https://docs.google.com/presentation/d/1GRict0qcuUj5hfXS1AYmwPgLHIZNr2t29GJOC6CmJqQ/' },
           {
             displayText: 'Handout',
             linkURL:
-              'https://docs.google.com/presentation/d/1GRict0qcuUj5hfXS1AYmwPgLHIZNr2t29GJOC6CmJqQ/',
+              'https://drive.google.com/file/d/1q9Yx6U4HZlON9yz7JcBaYn02L_5kQvko/',
           },
         ],
       },
