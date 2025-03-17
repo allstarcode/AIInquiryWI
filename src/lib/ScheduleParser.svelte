@@ -11,7 +11,7 @@
   {#each data as day}
     <li>
       <div
-        id={`LITATF-day-${day.daynum}-header`}
+        id={`day-${day.daynum}-header`}
         class="collapsible-header title"
         data-state="closed"
       >

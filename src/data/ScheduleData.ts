@@ -158,7 +158,7 @@ export const allData: Schedule = [
           {
             displayText: 'Padlet Board',
             linkURL:
-              'https://padlet.com/alexandersmith49/ai-independent-research-padlet-board-cwgo9nb8fyltt42x',
+              'https://padlet.com/alexandersmith49/2025-ai-independent-research-padlet-board-llyjr00og32xdj11',
           },
         ],
       },
@@ -181,7 +181,7 @@ export const allData: Schedule = [
         time: '12:45PM - 01:00PM',
         duration: '15',
         actType: 'coreskill',
-        links: [{ displayText: 'Survey', linkURL: 'https://form.typeform.com/to/RvZGbmKw' }],
+        links: [{ displayText: 'Survey', linkURL: 'https://form.typeform.com/to/cTP91Gje' }],
       },
     ],
   },
