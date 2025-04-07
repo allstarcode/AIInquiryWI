@@ -181,7 +181,7 @@ export const allData: Schedule = [
         time: '12:45PM - 01:00PM',
         duration: '15',
         actType: 'coreskill',
-        links: [{ displayText: 'Survey', linkURL: 'https://form.typeform.com/to/cTP91Gje' }],
+        links: [{ displayText: 'Survey', linkURL: 'https://form.typeform.com/to/cTP91Gje' }, { displayText: "Apply to the Summer Intensive", linkURL: 'https://allstarcodeapply.smapply.io/'}],
       },
     ],
   },
