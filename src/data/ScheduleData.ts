@@ -100,7 +100,7 @@ export const allData: Schedule = [
           {
             displayText: 'Handout',
             linkURL:
-              'https://drive.google.com/file/d/1YuwlFfrF8Hm2gEQU3RROnPt8c1A6uHCB/view?usp=sharing',
+              'https://drive.google.com/file/d/180EAaaxRVsHPokONmI0ldOEUqmFMXf_8/view?usp=sharing',
           },
         ],
       },
